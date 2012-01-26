@@ -1,0 +1,41 @@
+%!Adobe-FontList 1.13
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Formata-Medium
+FamilyName:Formata
+StyleName:Medium
+MenuName:Formata
+StyleBits:2
+WeightClass:550
+WidthClass:5
+AngleClass:0
+FullName:Formata Medium
+WritingScript:Roman
+OutlineFileName:\Formata-Medium.ttf
+DataFormat:sfntData
+FileLength:88792
+FileModTime:1327263416
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Formata-MediumCondensed
+FamilyName:Formata
+StyleName:Medium Condensed
+MenuName:Formata
+StyleBits:2
+WeightClass:550
+WidthClass:3
+AngleClass:0
+FullName:Formata Medium Condensed
+WritingScript:Roman
+OutlineFileName:\Formata-MediumCondensed.ttf
+DataFormat:sfntData
+FileLength:102468
+FileModTime:1327264380
+%EndFont
+
